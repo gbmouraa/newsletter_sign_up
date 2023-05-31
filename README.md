@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/gbmouraa/newsletter_sign_up](https://github.com/gbmouraa/newsletter_sign_up)
+- Live Site URL: [https://gbmouraa.github.io/newsletter_sign_up/](https://gbmouraa.github.io/newsletter_sign_up/)
 
 ## Author
 - Frontend Mentor - [@gbmouraa](https://www.frontendmentor.io/profile/gbmouraa)
